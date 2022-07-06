@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://buxizhou.cn</id>
+    <title>Lin&apos;s World</title>
+    <updated>2022-07-06T05:15:10.146Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://buxizhou.cn"/>
+    <link rel="self" href="https://buxizhou.cn/atom.xml"/>
+    <subtitle>巧者劳，智者忧，唯无能者无所求，终日蔬食而遨游，泛若不系之舟......</subtitle>
+    <logo>https://buxizhou.cn/images/avatar.png</logo>
+    <icon>https://buxizhou.cn/favicon.ico</icon>
+    <rights>All rights reserved 2022, Lin&apos;s World</rights>
+    <entry>
+        <title type="html"><![CDATA[测试Title]]></title>
+        <id>https://buxizhou.cn/post/ce-shi-title/</id>
+        <link href="https://buxizhou.cn/post/ce-shi-title/">
+        </link>
+        <updated>2022-07-06T05:01:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>测试内容</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>测试内容</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://buxizhou.cn/post/about/</id>
+        <link href="https://buxizhou.cn/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<h2 id="联系我呀">📬 联系我呀</h2>
+]]></content>
+    </entry>
+</feed>
